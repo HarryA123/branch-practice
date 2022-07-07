@@ -1,5 +1,5 @@
 # Greetings
 
-- English: Good morning!!!!!
-- Korean: 식사 했어요?
+- Korean: 날씨 좋죠!
+- English: Hello
 - Spanish: Hola~
